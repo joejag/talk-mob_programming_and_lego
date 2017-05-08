@@ -1,3 +1,7 @@
-Got a crazy idea? Maybe it's crazy and maybe it's not.
+# Run the damn experiment
 
-There's only one way to find out. Run the darn experiment.
+Got a wacky idea? Maybe it's wacky and maybe it's not.
+
+There's only one way to find out.
+
+# Run the darn experiment quote

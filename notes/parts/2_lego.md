@@ -31,7 +31,34 @@ Take last row off; move all back
 
 Create a blank front row
 
+# Glasgow interlude
+
+* We had been collecting the data for over four weeks when a board room request went out
+* They wanted the team to tackle two large projects. The last project had been a disaster that involved the team working the day after Christmas to tidy things up.
+* The tech lead of the project said nothing. He walked up to a whiteboard, picked up a pen and wrote a number on the board.
+
+# 23.2%
+
+* If I say something will take 12 weeks. It means you'll get it this time next year.
+* There was a stunned silence. Never had the directors been given such insight into the system of work.
+* Next they came running down to the work area to see the Lego. They had the most serious conversation ever about lego bricks.
+
+# The stats April
+
+* They asked: How do we get the Orange away? We said it was reports. They found a way themselves to collate their reports without asking us
+* They asked: How do we get the red down? We asked for a tester, as it is complex to handle this code. Also we asked for better access to folk who want things since we weren't getting the code right and revisiting work.
+* We asked for four weeks time to get some major legacy parts solved and make it easier to handle some of the ad-hoc requests.
+
+# The stats November
+
+* Half a year later and the team spent most of their time on planned work. I reckon this is about average for a team.
+* The failure rate was massively cut by the tester and improving the way we picked up work. We added more stakeholder demos to make sure we got things right before they hit production.
+* Ad-hoc came down as we introduced a rule saying we were interruptible in two time blocks of 30 minutes during the day.
+
+* But yes. We managed to improve this team two fold. It wasn't by adopting the latest trendy framework. It was by concentrating on improving collaboration by working as a team.
+
 # Would this work
 
+* Please note. Our team was in a safe context. I could understand if some people didn't want their work tracked
 * Why isn’t it just as effective to store this info in a spreadsheet online?
 * Would you use the same or different categories?

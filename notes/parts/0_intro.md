@@ -13,6 +13,7 @@ TECHNICAL MESS!
 * Half a million lines of code. Multi-k class files. Some converted from VB to C#
 * Handful of broken tests
 * No CI, deploys by hand
+* All wanted to rewrite it. I don't think you should rewrite until you've fixed the behaviour that led to the mess in the first place.
 
 TRY
 

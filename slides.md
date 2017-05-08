@@ -163,6 +163,10 @@
 
 ---
 
+![](images/glasgow.jpg)
+
+---
+
 ## 23.2%
 
 ---
@@ -195,4 +199,4 @@
 
 ## What are your questions?
 
-### *Joe Wright* *@joe_jag*
+### __@joe_jag__ - *Joe Wright*
