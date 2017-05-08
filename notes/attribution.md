@@ -25,3 +25,7 @@
 [Arm wrestle - Ryan McGuire](https://stocksnap.io/photo/1920568BD3)
 
 [Close up view of shoes - Pixabay](https://www.pexels.com/photo/close-up-view-of-shoes-327273/)
+
+## Lego
+
+[White and black calculator - Pixabay](https://www.pexels.com/photo/white-and-black-desk-calculator-on-white-graphing-paper-159804/)

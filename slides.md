@@ -120,20 +120,78 @@
 
 ---
 
-## Retro Every Day
-## *For 5 Minutes*
+## How are you spending the majority of your time?
 
 ---
 
-## Are you spending the majority of your time on planned work?
+![](images/measure.jpg)
 
 ---
+
 
 # The Lego Experiment
 
 ---
 
+# 5 categories for this week…
 
+![inline](images/lego_1.png)
+
+---
+
+# Close up
+
+![inline](images/lego_2.png)
+
+---
+
+# Daily review
+
+![inline](images/lego_3.png)
+
+---
+
+# Start of a new week
+
+![inline](images/lego_4.png)
+
+---
+
+# Start of a new week
+
+![inline](images/lego_5.png)
+
+---
+
+## 23.2%
+
+---
+
+# Statistics - 2016
+
+|            | *Planned* | *Failure* | *Ad-hoc* | *Meetings* |
+| ---        | ---     | ---     | ---    | ---      |
+| __April__  | 23%     | 30%     | 40%    | 2%       |
+
+---
+
+# Statistics - 2016
+
+|            | *Planned* | *Failure* | *Ad-hoc* | *Meetings* |
+| ---        | ---     | ---     | ---    | ---      |
+| __April__      | 23%     | 30%     | 40%    | 2%       |
+| __November__   | 56%     | 4%      | 24%    | 10%      |
+
+---
+
+## Would this work for you?
+
+---
+
+> Run the damn experiment
+--Rich Sheridan
+
+---
 
 ## What are your questions?
 
