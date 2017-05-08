@@ -21,3 +21,7 @@
 [Woman Trying to Check and Repair Her Broken Car - VIKTOR HANACEK ](https://picjumbo.com/young-woman-trying-to-check-and-repair-her-broken-car/)
 
 [Miguel Á. Padriñán](https://stocksnap.io/photo/0A92VJXHAL)
+
+[Arm wrestle - Ryan McGuire](https://stocksnap.io/photo/1920568BD3)
+
+[Close up view of shoes - Pixabay](https://www.pexels.com/photo/close-up-view-of-shoes-327273/)

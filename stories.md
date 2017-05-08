@@ -6,6 +6,7 @@
 # The mobbing one where...
 
 * Are we really going to keep doing this?
+* Do we want to use this language feature?
 
 # The lego one where....
 

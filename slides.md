@@ -42,7 +42,7 @@
 
 ---
 
-> All the brilliant people working on the same thing, at the same time, in the same space, and on the same computer.
+> All the brilliant people working on the same thing, at the same time, in the same space, and on the same computer
 --Woody Zuill
 
 ---
@@ -52,6 +52,15 @@
 ---
 
 ![](images/kim-jong-un-happy.jpg)
+
+---
+
+## But Why?
+
+---
+
+> Queues are the single most important cause of poor product development performance
+--Donald G. Reinertsen
 
 ---
 
@@ -73,11 +82,13 @@
 
 ---
 
-# Strong-style pairing - Make it easy
+# Strong-style pairing
 
 * Know what example the mob is solving
 * Speak at the right level of abstraction
 * The typist has to trust their navigators
+
+![left](images/arm_wrestle.jpg)
 
 ---
 
@@ -87,10 +98,42 @@
 
 ---
 
-# 5 Minute retro
-## *Every day*
+![](images/ideal_size.jpg)
 
 ---
+
+## How can I get started?
+
+---
+
+# To mob
+
+* Gather your team around a co-working space
+* Limit your work in progress to one item
+* Share one computer, rotating every 7 minutes
+* Commit to creating a safe environment
+* Amplify the good
+
+---
+
+![](images/glasgow.jpg)
+
+---
+
+## Retro Every Day
+## *For 5 Minutes*
+
+---
+
+## Are you spending the majority of your time on planned work?
+
+---
+
+# The Lego Experiment
+
+---
+
+
 
 ## What are your questions?
 
