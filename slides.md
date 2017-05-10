@@ -110,30 +110,19 @@
 
 ---
 
-## How are you spending the majority of your time?
-
----
-
 ![](images/measure.jpg)
 
 ---
 
-
-# Lego!
-
-![inline](images/lego_1.png)
+![fit](images/lego_1.png)
 
 ---
 
-# Close up
-
-![inline](images/lego_2.png)
+![fit](images/lego_2.png)
 
 ---
 
-# Daily review
-
-![inline](images/lego_3.png)
+![fit](images/lego_3.png)
 
 ---
 
@@ -141,7 +130,7 @@
 
 ---
 
-## 23.2%
+![](images/23.jpg)
 
 ---
 
@@ -176,7 +165,7 @@
 
 ---
 
-What are your questions?
+# What are your questions?
 
-## __@joe_jag__ - *Joe Wright*
-`https://github.com/joejag/talk-mob_programming_and_lego`
+### __@joe_jag__ - *Joe Wright*
+#### https://github.com/joejag/talk-mob\_programming\_and\_lego

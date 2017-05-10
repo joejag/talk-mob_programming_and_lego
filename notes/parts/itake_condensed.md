@@ -8,7 +8,7 @@
 
 # Glasgow
 
-* My home. Currently proud member of the EU
+* My home.
 * In Glasgow, HQ AC, 300k cars
 
 # keys
@@ -109,7 +109,7 @@
 # The mob programming working agreement
 
 * It's not a meeting
-* co-working space: desks are made for individuals. Big monitor, comfy seating.
+* co-working space: desks are made for individuals. Big monitor, comfy seating. Design for communication not isolation.
 * Limit WIP: Take 1 of existing work
 * Rotate: use software
 * Commit to creating a safe environment: Watch out for your team
