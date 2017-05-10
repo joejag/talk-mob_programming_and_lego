@@ -3,4 +3,4 @@
 Thanks for looking up these materials.
 
 * [Talk slides](slides.md) (I use Deckset to present)
-* [Supplement: Getting started tracking with Lego](lego.ppt?raw=true)
+* [Supplement: Getting started tracking with Lego](lego.pdf?raw=true)
