@@ -1,18 +1,15 @@
 # Mob programming
 
-* The first experiment that we tried was Mob Programming. It's a biggie.
 * You limit your entire team to working on one story and you stay together until it's finished.
-* Mobbing isn't a meeting. It's a working agreement.
-* "I'd used it before, I'm interested in what you've used too"
+* I know what you are thinking just now. One story? ALL the team?
 
 # Hands up
 
-* I know what you are thinking just now. One story? ALL the team? Who let this guy on the stage.
 * But we have a history of counter intuitive ideas in our industry that turn out to be more efficient and effective way of writing code.
 
-* Bonkers (learn Romanian) one: Pair Programming.
-* Bonkers two: TDD.
-* Bonkers three: Mob programming.
+* Absurd (learn Romanian) one: Pair Programming.
+* Absurd two: TDD.
+* Absurd three: Mob programming.
 
 # Woody quote
 
@@ -29,16 +26,6 @@ Jokes: Typo. Semicolon. So you think that's a good name for this method do you?
 It's not like this, it's a practice designed for safe working in a group - with the focus on solving problems rather than just writing as much code as possible
 
 Jokes: Binoculars
-
-# But Why
-
-https://www.infoq.com/articles/queues-enemy-of-flow
-
-Causes of waste in software: queues, blockers, context switching
-
-When we work alone we tend to get blocked. When we get blocked we pick up more work. Increasing context switching. We also tend to see coleagues as too busy to bother, so we don't seek to resolve blockers as soon as they happen.
-
-Queue lie at the root of of large dev problems: They increase variability, risk and cycle time. They decrease efficiency, quality and motivation.
 
 # Video
 
@@ -72,12 +59,24 @@ Three things help -
 * I've found three to four developers works well, plus anyone else needed.
 * It's still worth getting together for bigger architectural items.
 
+# But Why
+
+https://www.infoq.com/articles/queues-enemy-of-flow
+
+Causes of waste in software: queues, blockers, context switching
+
+When we work alone we tend to get blocked. When we get blocked we pick up more work. Increasing context switching. We also tend to see colleagues as too busy to bother, so we don't seek to resolve blockers as soon as they happen.
+
+Queue lie at the root of of large dev problems: They increase variability, risk and cycle time. They decrease efficiency, quality and motivation.
+
+Mob because the bottleneck isn't typing, it's solving problems with the smallest amount of code necessary.
+
 # Recap - To Mob
+
+* Mobbing isn't a meeting. It's a working agreement.
 
 * Gather your team around a co-working space
 * Limit your work in progress to one item
 * Share one computer, rotating every 7 minutes
 * Commit to creating a safe environment
 * Amplify the good
-
-# Outro

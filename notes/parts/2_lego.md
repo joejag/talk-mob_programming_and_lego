@@ -1,35 +1,38 @@
 # Back in Glasgow
 
 * We had mobbing going.
-* Disagreements about code style disappeared.
+* Disagreements about code style disappeared. 10 devs, 10 ideas, all expressed in the codebase.
 * We were building confidence in our ability to delivery bigger bits of work
-* But we felt like a lot of our time was distracted on unplanned work
+* But at our retros we felt like a lot of our time was distracted on unplanned work
+* We had become effective, now it was time to become efficient
 
 # How are you spending the majority of your time?
 
 * How much time do you spend working on what is expected?
-* The problem with Legacy is the tech debt.
-* “We’re spending a lot of our time on bug fixes and other rework. We need a way to help our management see that if we have time to clear tech debt this drain on our time could go away permanently.”
+* Wanted to show stakeholders and management that we were drowning
 
 # Calculate it
 
 * Our challenge was how to make the nature of each week’s work more visible. Show ‘Failure demand’ and ‘Ad hoc’ work and time spent in meetings against planned work.
+* Tried whiteboard, tried spreadsheet -> It was a chore
 
-# 5 categories for this week…
+# Lego
 
-“The front row is this week’s labor – 1 block for 1 hour. The prior 4 weeks are also on the platform.”
+* Each block represents one hour of dev time
+* Those blocks are made into a 3d bar chart
+* Previous weeks are kept to show the variance after we try new things
 
 # Close up
 
-“We keep this visible and it’s a great conversation-starter when managers ask about it. You can see that they’ve given us so much Ad-hoc work that we ran out of orange Legos!”
+* Each work represents
+* Ran out of orange!
 
-“At each daily standup, each of us will put 7 Lego together to express how our time was used yesterday.”
+# Daily Review
 
-# Start of a new week
+* Create bricks through the day. 4pm Review
+* How can we stop this happening. use 5whys.
 
-Take last row off; move all back
-
-Create a blank front row
+JOKE: Glasses. Also lego creating sad children faces.
 
 # Glasgow interlude
 
@@ -55,10 +58,8 @@ Create a blank front row
 * The failure rate was massively cut by the tester and improving the way we picked up work. We added more stakeholder demos to make sure we got things right before they hit production.
 * Ad-hoc came down as we introduced a rule saying we were interruptible in two time blocks of 30 minutes during the day.
 
-* But yes. We managed to improve this team two fold. It wasn't by adopting the latest trendy framework. It was by concentrating on improving collaboration by working as a team.
+# Glasgow
 
-# Would this work
+* But yes. We managed to improve this team two fold. It was by concentrating on improving collaboration by working as a team.
 
 * Please note. Our team was in a safe context. I could understand if some people didn't want their work tracked
-* Why isn’t it just as effective to store this info in a spreadsheet online?
-* Would you use the same or different categories?

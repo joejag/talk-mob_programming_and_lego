@@ -1,39 +1,51 @@
-Joined to create web services, doing fine, but couldn't get data or folk to integrate with the new services.
-Asked: What team is struggling the most that I could help out?
-Which was working on the point of sale system. And that is this story.
+# Intro slide
 
-PICTURE THE SCENE!
+Hello I T.A.K.E! I'm Joe Wright and I'm over here from Scotland to talk about a journey I've been on with a team over the last year.
+
+From that journey I have two things to sell you today.
+* Effective: The first is that I can tell you how to get teams to collaborate rather than just communicate with each other.
+* Efficient: The second I'm going to tell you about is the most powerful retrospective technique I've found for improving how teams work. Which is with a set of Lego bricks like this.
+
+In order to sell you on these ideas I'm going to tell you a story of what happened to a small development team in 2016 in Glasgow.
+
+# Glasgow
+
+Glasgow is my home. It's the largest city in Scotland. And a very cool place. But there's no need to visit as we made a smaller tourist version called, erm, Edinburgh just down the road.
+
+And it's home to a car dealer called Arnold Clark, which is where our story begins.
+
+# Car keys
+
+I had been there a year already after leaving ThoughtWorks. After helping with one system I asked the boss level character which team needed the most help.
+
+And they hated me and everything I stood for. So I asked where's the second biggest place I could help.
+
+This story takes place on the team creating the point of sale system. Used by customers to purchase around 300k cars a year.
+
+They had recently tried to double the size of the team resulting in a huge failed project that involved the team working over Christmas to fix. Needless to say morale was low.
+
+# Paint brushes
 
 * The PO has quit
 * Three devs are working on nine cards simultaneously. Lead time over a month for most stories.
 * Stand-ups are scheduled for every second Monday
 
-TECHNICAL MESS!
+# TECHNICAL MESS!
 
 * Half a million lines of code. Multi-k class files. Some converted from VB to C#
 * Handful of broken tests
 * No CI, deploys by hand
 * All wanted to rewrite it. I don't think you should rewrite until you've fixed the behaviour that led to the mess in the first place.
 
-TRY
+# TRY TO FIX
 
 * Pairing is usually ok at first - not controversial.
 * Tried renaming a method with a typo: All reused.
 * Tried adding analytics. Took out production.
-* Tried to remove a cache. Terrified it might affect perf. (Two stages joke: high five, I have this weird bug).
+* Silo'd knowledge.
+* Fear was dominant.
 
-ROCK DA boat
+# ROCK DA boat
 
-* Kaizen should be done always.
-* Kanban says start where you are
 * But it would take me years to help via pairing.
 * But sometimes you need to rock the boat to get out of the local optima.
-
-MAGIC words
-
-https://www.inc.com/richard-sheridan/our-grand-adorable-experiment-babies-in-the-office.html
-
-Come back from a conference pumped:
-"Oh yeah, that. I don't think that will work here...."
-
-"You can get away with a lot if you use these magic words"

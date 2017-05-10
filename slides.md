@@ -29,11 +29,6 @@
 
 ---
 
-> I know it might not work. But let's try it and see what happens. Let's not throw out the idea before it even has a chance. Let's run the experiment
---Rich Sheridan
-
----
-
 # Mob Programming
 
 ---
@@ -52,15 +47,6 @@
 ---
 
 ![](images/kim-jong-un-happy.jpg)
-
----
-
-## But Why?
-
----
-
-> Queues are the single most important cause of poor product development performance
---Donald G. Reinertsen
 
 ---
 
@@ -102,11 +88,15 @@
 
 ---
 
+## But Why?
+
+---
+
 ## How can I get started?
 
 ---
 
-# To mob
+# The Mobbing Working Agreement
 
 * Gather your team around a co-working space
 * Limit your work in progress to one item
@@ -129,11 +119,7 @@
 ---
 
 
-# The Lego Experiment
-
----
-
-# 5 categories for this week…
+# Lego!
 
 ![inline](images/lego_1.png)
 
@@ -148,18 +134,6 @@
 # Daily review
 
 ![inline](images/lego_3.png)
-
----
-
-# Start of a new week
-
-![inline](images/lego_4.png)
-
----
-
-# Start of a new week
-
-![inline](images/lego_5.png)
 
 ---
 
@@ -188,12 +162,17 @@
 
 ---
 
-## Would this work for you?
+![](images/glasgow.jpg)
 
 ---
 
-> Run the damn experiment
+> I know it might not work. But let's try it and see what happens. Let's not throw out the idea before it even has a chance. Let's run the experiment
 --Rich Sheridan
+
+---
+
+## *There's only one way to find out:*
+# Run the experiment
 
 ---
 
