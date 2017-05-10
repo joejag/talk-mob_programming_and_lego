@@ -176,6 +176,7 @@
 
 ---
 
-## What are your questions?
+What are your questions?
 
-### __@joe_jag__ - *Joe Wright*
+## __@joe_jag__ - *Joe Wright*
+`https://github.com/joejag/talk-mob_programming_and_lego`
