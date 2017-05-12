@@ -98,7 +98,6 @@
 # Why
 
 * Waste in software: context switching, blockers, queues of work
-* Don't want to bother people, start a new thing
 * Better software: minimal amount of code required. One person to keep the quality.
 * Getting things done, with high quality using the diversity of your team.
 
@@ -117,14 +116,10 @@
 
 # Glasgow
 
-* Mobbing was making use more effective.
+* Mobbing was making us more effective.
 * Code style. 10 devs, 10 idea, all in codebase. test?
 * Retros felt we were distracted
 * Becoming more effective, but wanted to be more efficient.
-
-# How are you spending the majority of your time?
-
-* Do you know? Is it 80, 50, 20% of your time?
 * We wanted to show our stakeholders and management that we were drowning.
 
 # Calculate and visualise
