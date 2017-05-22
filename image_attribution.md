@@ -26,6 +26,10 @@
 
 [Close up view of shoes - Pixabay](https://www.pexels.com/photo/close-up-view-of-shoes-327273/)
 
+[Why - Evan davies](https://unsplash.com/search/why?photo=i--IN3cvEjg)
+
+[Asaf R - Group Chat](https://stocksnap.io/photo/HDGKFBQNZM)
+
 ## Lego
 
 [White and black calculator - Pixabay](https://www.pexels.com/photo/white-and-black-desk-calculator-on-white-graphing-paper-159804/)

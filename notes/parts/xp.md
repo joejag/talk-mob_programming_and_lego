@@ -187,8 +187,6 @@ JOKE: Glasses. Also lego creating sad children faces.
 # ADVANCED - LEGO - TECH DEBT BRICKS
 
 * Realised the green column was not truthful. We spent a lot of time getting up to speed with the legacy code
-*
-
 
 # LEGACY story
 
@@ -199,6 +197,7 @@ JOKE: Glasses. Also lego creating sad children faces.
 
 # For helping legacy code teams
 
+* It's in the system around it too
 * First: Build a team that collaborates
 * Second: Fix their process to reduce failure
 * Third: Split out domain ideas into new services

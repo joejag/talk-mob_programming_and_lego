@@ -98,6 +98,8 @@
 * Higher quality software
 * Get things done
 
+![right](images/why.jpg)
+
 ---
 
 ## How can I get started?
@@ -163,6 +165,23 @@
 ---
 
 # Micro Retro
+
+![](images/group_chat.jpg)
+
+---
+
+# Technical Debt
+
+![right](images/lego_debt_front.jpg)
+![left](images/lego_debt_green.jpg)
+
+---
+
+![](images/glasgow.jpg)
+
+---
+
+# How to tackle the legacy code situation
 
 ---
 
