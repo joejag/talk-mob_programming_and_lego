@@ -100,7 +100,6 @@
 
 * Gather your team around a co-working space
 * Limit your work in progress to one item
-* Share one computer, rotating every 7 minutes
 * Commit to creating a safe environment
 * Amplify the good
 

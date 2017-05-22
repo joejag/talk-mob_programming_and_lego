@@ -99,6 +99,7 @@
 
 * Waste in software: context switching, blockers, queues of work
 * Better software: minimal amount of code required. One person to keep the quality.
+ * Code style. 10 devs, 10 idea, all in codebase. test?
 * Getting things done, with high quality using the diversity of your team.
 
 # How can I get started
@@ -110,14 +111,12 @@
 * It's not a meeting
 * co-working space: desks are made for individuals. Big monitor, comfy seating. Design for communication not isolation.
 * Limit WIP: Take 1 of existing work
-* Rotate: use software
 * Commit to creating a safe environment: Watch out for your team
 * Amplify the good: don't dwell on the bad, find something that works and do more of it.
 
 # Glasgow
 
 * Mobbing was making us more effective.
-* Code style. 10 devs, 10 idea, all in codebase. test?
 * Retros felt we were distracted
 * Becoming more effective, but wanted to be more efficient.
 * We wanted to show our stakeholders and management that we were drowning.
