@@ -33,8 +33,9 @@
 * Rename method -> Class library
 * Analytics -> Took out production
 * Silo'd knowledge
+  * Holiday!
 
-# Rock the boat
+# Rock the boat2
 
 * Years via Pairing
 * Sometimes you have to make drastic steps. You need to rock the boat
@@ -71,6 +72,7 @@
 # Timer
 
 * Take turns. 7 minutes is sweet spot
+  * Pluralsight one is good
 * Not driving, more typist with mob direction
 
 # Strong pairing quote
@@ -84,23 +86,26 @@
 * Speak at the highest level
 * Trust the mob
 
-# Safety
-
-* Putting ourselves out there.
-* Handle conflict. Attack idea not person
-* Take a time out. Contributing or learning. Watch for this.
-
 # Size
 
 * 3 or more. Million folk. 4 devs plus tester etc.
 * Get together for bigger items
 
+# Safety
+
+* Putting ourselves out there.
+* Handle conflict. Attack idea not person
+* Take a time out. Contributing or learning. Watch for this.
+* XP has the values of Respect and Courage
+* Folk with Introverts, ADHD, Aspergers (specialized minds).
+  * Important thing is to look out for each other and call out problems early
+
 # Why
 
 * Waste in software: context switching, blockers, queues of work
-* Better software: minimal amount of code required. One person to keep the quality.
+* Better software: One person to keep the quality.
  * Code style. 10 devs, 10 idea, all in codebase. test?
-* Getting things done, with high quality using the diversity of your team.
+* Getting things done: min code. high quality using the diversity of your team.
 
 # How can I get started
 
@@ -184,13 +189,19 @@ JOKE: Glasses. Also lego creating sad children faces.
  * Example: Simple: Write up a holiday rota, bring in a tidy for the stationary
  * Example: Complex: How do we stop getting distracted?
 
+# ADV - 10% days
+
+* Every second Friday folk could work on whatever they want
+* People work to different levels of perfection. Release valve.
+
 # ADVANCED - LEGO - TECH DEBT BRICKS
 
 * Realised the green column was not truthful. We spent a lot of time getting up to speed with the legacy code
+* Realised that around 25% of our time was spent just understanding the current code.
 
 # LEGACY story
 
-* Deleted 15% of the code base
+* Deleted 100k lines of the code base
 * Split domain services.
  * Split off commissions
  * Rewrite sales part
@@ -204,7 +215,6 @@ JOKE: Glasses. Also lego creating sad children faces.
  * Don't rewrite a monolith - micro-rewrite parts of it that are changing
 
 ######
-
 
 Pre: Hyped up about idea. "Oh yeah, that. I don't think that will work here...."
 

@@ -78,13 +78,15 @@
 
 ---
 
-# Safety
+# Ideal Size
 
-### *We made a commitment to treat each with kindness, respect and consideration*
+![](images/ideal_size.jpg)
 
 ---
 
-![](images/ideal_size.jpg)
+# Safety
+
+### *We made a commitment to treat each with kindness, respect and consideration*
 
 ---
 
@@ -94,8 +96,8 @@
 
 # But Why?
 
-* Remove waste from your process
-* Higher quality software
+* Higher productivity
+* Better quality software
 * Get things done
 
 ![right](images/why.jpg)
@@ -153,8 +155,8 @@
 
 # Statistics - 2016
 
-|            | *Planned* | *Failure* | *Ad-hoc* | *Meetings* |
-| ---        | ---     | ---     | ---    | ---      |
+|                | *Planned* | *Failure* | *Ad-hoc* | *Meetings* |
+| ---            | ---     | ---     | ---    | ---      |
 | __April__      | 23%     | 30%     | 40%    | 2%       |
 | __November__   | 56%     | 4%      | 24%    | 10%      |
 
@@ -170,6 +172,10 @@
 
 ---
 
+# 10% Days
+
+---
+
 # Technical Debt
 
 ![right](images/lego_debt_front.jpg)
@@ -177,11 +183,11 @@
 
 ---
 
-![](images/glasgow.jpg)
+## __How__ to tackle a legacy code situation
 
 ---
 
-# How to tackle the legacy code situation
+# I don't know
 
 ---
 
