@@ -1,6 +1,6 @@
 # Intro slide
 
-Hello I T.A.K.E! I'm Joe Wright and I'm over here from Scotland to talk about a journey I've been on with a team over the last year.
+Hello LeanAgileScotland! I'm Joe Wright and I'm over here from Glasgow to talk about a journey I've been on with a team over the last year.
 
 From that journey I have two things to sell you today.
 * Effective: The first is that I can tell you how to get teams to collaborate rather than just communicate with each other.
@@ -10,9 +10,7 @@ In order to sell you on these ideas I'm going to tell you a story of what happen
 
 # Glasgow
 
-Glasgow is my home. It's the largest city in Scotland. And a very cool place. But there's no need to visit as we made a smaller tourist version called, erm, Edinburgh just down the road.
-
-And it's home to a car dealer called Arnold Clark, which is where our story begins.
+Glasgow is my home and it's home to a car dealer called Arnold Clark, which is where our story begins.
 
 # Car keys
 
@@ -41,7 +39,7 @@ They had recently tried to double the size of the team resulting in a huge faile
 
 * Pairing is usually ok at first - not controversial.
 * Tried renaming a method with a typo: All reused.
-* Tried adding analytics. Took out production.
+* Tried adding analytics (deleteability i like software that fits in my head). Took out production.
 * Silo'd knowledge.
 * Fear was dominant.
 
@@ -49,3 +47,7 @@ They had recently tried to double the size of the team resulting in a huge faile
 
 * But it would take me years to help via pairing.
 * But sometimes you need to rock the boat to get out of the local optima.
+
+# QUESTION time
+
+* I tried few things

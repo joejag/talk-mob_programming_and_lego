@@ -1,7 +1,6 @@
 # Back in Glasgow
 
 * We had mobbing going.
-* Disagreements about code style disappeared. 10 devs, 10 ideas, all expressed in the codebase.
 * We were building confidence in our ability to delivery bigger bits of work
 * But at our retros we felt like a lot of our time was distracted on unplanned work
 * We had become effective, now it was time to become efficient

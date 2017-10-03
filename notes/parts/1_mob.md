@@ -3,11 +3,13 @@
 * You limit your entire team to working on one story and you stay together until it's finished.
 * I know what you are thinking just now. One story? ALL the team?
 
+joshua kerievsky quote
+
 # Hands up
 
 * But we have a history of counter intuitive ideas in our industry that turn out to be more efficient and effective way of writing code.
 
-* Absurd (learn Romanian) one: Pair Programming.
+* Absurd one: Pair Programming.
 * Absurd two: TDD.
 * Absurd three: Mob programming.
 
@@ -26,6 +28,7 @@ Jokes: Typo. Semicolon. So you think that's a good name for this method do you?
 It's not like this, it's a practice designed for safe working in a group - with the focus on solving problems rather than just writing as much code as possible
 
 Jokes: Binoculars
+Jokes: I wonder how many travel bans I'm on after these slides.
 
 # Video
 
@@ -46,28 +49,32 @@ Three things help -
 * speaking at the highest level the typist can work at (extract method, highlight lines 10-14 and press Ctrl-X-M)
 * Trusting the navigators, you know the example - let them direct the solution for 4 minutes - after that you can comment
 
-# Safety
-
-* Treat each other with kindness, respect and consideration. We are putting ourselves out there and there's no room to hide.
-* Handle conflict - disagree with ideas, not the person.
-* If it's getting too much just take a time out.
-
-# Size
+# Ideal Size
 
 * The perfect size is context specific
 * Obviously there is an upper limit. Having a million people on a task.
 * I've found three to four developers works well, plus anyone else needed.
 * It's still worth getting together for bigger architectural items.
 
+# Safety
+
+* Treat each other with kindness, respect and consideration. We are putting ourselves out there and there's no room to hide.
+* Handle conflict - disagree with ideas, not the person.
+* If it's getting too much just take a time out.
+
 # But Why
 
 https://www.infoq.com/articles/queues-enemy-of-flow
 
-Causes of waste in software: queues, blockers, context switching
+# Wastes in software
+
+Causes of waste in software: queues, blockers, context switching.
+
+Queue lie at the root of of large dev problems: They increase variability, risk and cycle time. They decrease efficiency, quality and motivation.
 
 When we work alone we tend to get blocked. When we get blocked we pick up more work. Increasing context switching. We also tend to see colleagues as too busy to bother, so we don't seek to resolve blockers as soon as they happen.
 
-Queue lie at the root of of large dev problems: They increase variability, risk and cycle time. They decrease efficiency, quality and motivation.
+# Outcomes
 
 Mob because the bottleneck isn't typing, it's solving problems with the smallest amount of code necessary.
 
@@ -77,6 +84,11 @@ Mob because the bottleneck isn't typing, it's solving problems with the smallest
 
 * Gather your team around a co-working space
 * Limit your work in progress to one item
-* Share one computer, rotating every 7 minutes
 * Commit to creating a safe environment
 * Amplify the good
+
+# Activity:
+
+Could mob programming work for you?
+
+Joshua Kerovsky: Continuous Integration for ideas

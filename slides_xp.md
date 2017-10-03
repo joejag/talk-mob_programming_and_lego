@@ -29,7 +29,16 @@
 
 ---
 
+# Activity Time!
+
+## *4 mins. In Pairs*
+### __What 2 things would you do?__
+
+---
+
 # Mob Programming
+
+### __"Continuous Integration for ideas"__
 
 ---
 
@@ -86,7 +95,7 @@
 
 # Safety
 
-### *We made a commitment to treat each with kindness, respect and consideration*
+### __We made a commitment to treat each with kindness, respect and consideration__
 
 ---
 
@@ -94,11 +103,21 @@
 
 ---
 
-# But Why?
+# Tackle the Wastes
+
+* Queues
+* Blockers
+* Context Switching
+
+![left](images/queue.jpg)
+
+---
+
+# Outcomes
 
 * Higher productivity
 * Better quality software
-* Get things done
+* Collaborative teams
 
 ![right](images/why.jpg)
 
@@ -113,7 +132,15 @@
 * Gather your team around a co-working space
 * Limit your work in progress to one item
 * Commit to creating a safe environment
+* Take regular breaks
 * Turn up the good
+
+---
+
+# Activity Time!
+
+## *6 mins. In Groups of 4*
+### __Could mobbing work for you?<br>Why? Why not?__
 
 ---
 
@@ -166,6 +193,13 @@
 
 ---
 
+# Activity Time!
+
+## *4 mins. In Pairs*
+### __How much of your time is spent on planned work? Are you sure?__
+
+---
+
 # Micro Retro
 
 ![](images/group_chat.jpg)
@@ -180,14 +214,6 @@
 
 ![right](images/lego_debt_front.jpg)
 ![left](images/lego_debt_green.jpg)
-
----
-
-## __How__ to tackle a legacy code situation
-
----
-
-# I don't know
 
 ---
 
