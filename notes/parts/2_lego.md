@@ -3,17 +3,13 @@
 * We had mobbing going.
 * We were building confidence in our ability to delivery bigger bits of work
 * But at our retros we felt like a lot of our time was distracted on unplanned work
-* We had become effective, now it was time to become efficient
-
-# How are you spending the majority of your time?
-
-* How much time do you spend working on what is expected?
 * Wanted to show stakeholders and management that we were drowning
 
 # Calculate it
 
 * Our challenge was how to make the nature of each week’s work more visible. Show ‘Failure demand’ and ‘Ad hoc’ work and time spent in meetings against planned work.
 * Tried whiteboard, tried spreadsheet -> It was a chore
+* Matt Wynne's rule of software: Development should be fun or your doing it wrong
 
 # Lego
 
@@ -62,3 +58,6 @@ JOKE: Glasses. Also lego creating sad children faces.
 * But yes. We managed to improve this team two fold. It was by concentrating on improving collaboration by working as a team.
 
 * Please note. Our team was in a safe context. I could understand if some people didn't want their work tracked
+
+
+# Activity

@@ -24,6 +24,7 @@ They had recently tried to double the size of the team resulting in a huge faile
 
 # Paint brushes
 
+* To paint you more of a picture
 * The PO has quit
 * Three devs are working on nine cards simultaneously. Lead time over a month for most stories.
 * Stand-ups are scheduled for every second Monday

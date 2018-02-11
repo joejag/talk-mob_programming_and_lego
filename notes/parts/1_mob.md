@@ -11,7 +11,7 @@ joshua kerievsky quote
 
 * Absurd one: Pair Programming.
 * Absurd two: TDD.
-* Absurd three: Mob programming.
+* Absurd three: Limiting WIP. Mob programming.
 
 # Woody quote
 
@@ -47,7 +47,7 @@ Jokes: I wonder how many travel bans I'm on after these slides.
 Three things help -
 * knowing what example scenario you are solving (whiteboard it)
 * speaking at the highest level the typist can work at (extract method, highlight lines 10-14 and press Ctrl-X-M)
-* Trusting the navigators, you know the example - let them direct the solution for 4 minutes - after that you can comment
+* Trusting the navigators, you know the example - let them direct the solution for 4 minutes - after that you can comment (Time bound trust)
 
 # Ideal Size
 
@@ -65,6 +65,8 @@ Three things help -
 # But Why
 
 https://www.infoq.com/articles/queues-enemy-of-flow
+
+What are the wastes?
 
 # Wastes in software
 
@@ -85,10 +87,9 @@ Mob because the bottleneck isn't typing, it's solving problems with the smallest
 * Gather your team around a co-working space
 * Limit your work in progress to one item
 * Commit to creating a safe environment
+* Take break
 * Amplify the good
 
 # Activity:
 
 Could mob programming work for you?
-
-Joshua Kerovsky: Continuous Integration for ideas

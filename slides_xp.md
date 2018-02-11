@@ -77,16 +77,6 @@
 
 ---
 
-# Strong-style pairing
-
-* Know what example the mob is solving
-* Speak at the right level of abstraction
-* The typist has to trust their navigators
-
-![left](images/arm_wrestle.jpg)
-
----
-
 # Ideal Size
 
 ![](images/ideal_size.jpg)
@@ -189,16 +179,18 @@
 
 ---
 
+# Warning
+
 ![](images/glasgow.jpg)
 
 ---
-
+<!-- 
 # Activity Time!
 
 ## *4 mins. In Pairs*
-### __How much of your time is spent on planned work? Are you sure?__
+### __How much of your time is spent on planned work? How do you know?__
 
----
+--- -->
 
 # Micro Retro
 

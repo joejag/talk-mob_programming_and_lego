@@ -78,12 +78,6 @@
 * For an idea to go from your brain to the computer, you have to use someone elses hands
 * "I have an idea - give me" -> "I have an idea - please take the keyboard"
 
-# Strong pairing quote - make it easy
-
-* Know your rule/example. Write it on whiteboard
-* Speak at the highest level
-* Trust the mob
-
 # Safety
 
 * Putting ourselves out there.
@@ -99,7 +93,7 @@
 
 * Waste in software: context switching, blockers, queues of work
 * Better software: minimal amount of code required. One person to keep the quality.
- * Code style. 10 devs, 10 idea, all in codebase. test?
+ * Code style. 10 devs, 10 idea, all in codebase. test? PAT KUA
 * Getting things done, with high quality using the diversity of your team.
 
 # How can I get started
@@ -130,7 +124,7 @@
 
 * Each block represents one hour of dev time
 * Those blocks are made into a 3d bar chart
-* Previous weeks are kept to show the variance after we try new things
+* Previous weeks are kept to show the variance after we try new things. MATT WYNNE
 
 # Close up
 
